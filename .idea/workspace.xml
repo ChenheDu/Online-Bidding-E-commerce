@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="57a9b6fa-1c4f-4da3-8c49-c6636e2d975e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1eUJ68iruNzAeFmncAndAHR05dN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="57a9b6fa-1c4f-4da3-8c49-c6636e2d975e" name="Default Changelist" comment="" />
+      <created>1594370059724</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594370059724</updated>
+      <workItem from="1594370060987" duration="27000" />
+      <workItem from="1598822581530" duration="251000" />
+      <workItem from="1598822875050" duration="686000" />
+      <workItem from="1598823576476" duration="515000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2648" y="361" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598822672954">
+      <screen x="1920" y="0" width="2560" height="1400" />
+    </state>
+    <state x="2648" y="361" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.2560.1400@1920.0.2560.1400" timestamp="1598822672954" />
+    <state x="1128" y="275" key="FileChooserDialogImpl" timestamp="1594370086548">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1128" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1594370086548" />
+    <state x="2674" y="281" key="SettingsEditor" timestamp="1598823588434">
+      <screen x="1920" y="0" width="2560" height="1400" />
+    </state>
+    <state x="2674" y="281" key="SettingsEditor/0.0.1920.1040/1920.0.2560.1400@1920.0.2560.1400" timestamp="1598823588434" />
+  </component>
+</project>
